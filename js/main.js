@@ -61,7 +61,7 @@
 
     /*==================================================================
     [ Countdown ]*/
-    var endDate = new Date("April 8, 2024 00:00:00");
+    var endDate = new Date("May 1, 2024 00:00:00");
     var now = new Date();
     var timeLeft = endDate - now;
 
